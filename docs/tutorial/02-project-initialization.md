@@ -130,7 +130,7 @@ You can run this example directly in your browser on:
 You can run this example directly in your browser on:
 
 - [CodeSandbox](https://codesandbox.io/p/sandbox/github/socketio/chat-example/tree/esm/step1?file=index.js)
-- [StackBlitz](https://stackblitz.com/github/socketio/chat-example/tree/esm/step1?file=index.js)
+- [StackBlitz](https://google.com)
 
 
   </TabItem>
